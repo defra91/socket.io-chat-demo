@@ -1,0 +1,22 @@
+{
+  "name": "socket.io-chat-demo",
+  "homepage": "https://github.com/defra91/socket.io-chat-demo",
+  "authors": [
+    "Luca De Franceschi <luca.defranceschi.91@gmail.com>"
+  ],
+  "description": "",
+  "main": "app/scripts/app.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "jquery": "^3.0.0"
+  }
+}
